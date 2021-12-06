@@ -108,6 +108,10 @@ namespace TestProject
         {
         
         }
+        public void Calculate()
+        {
+        
+        }
     }
 }
 
