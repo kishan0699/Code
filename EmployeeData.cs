@@ -103,9 +103,11 @@ namespace TestProject
             sqlDataAdapter.Fill(dtSet);
             return dtSet.Tables[0];
         }
+
         public void New()
         {
         
         }
     }
 }
+
