@@ -104,7 +104,7 @@ namespace TestProject
             return dtSet.Tables[0];
         }
 
-        public void New()
+        public void NewMethod()
         {
         
         }
